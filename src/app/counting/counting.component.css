@@ -1,0 +1,15 @@
+.container {
+    border: 1px solid red;
+    width: 50%;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.button {
+    color: blue;
+    margin-left: 47%;
+    margin-bottom: 10px;
+}
